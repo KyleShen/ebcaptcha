@@ -18,7 +18,7 @@ Usage
 =====
 Call the plugin:
 
-$('the_value').edoncaptcha();
+$('the_value').ebcaptcha();
 
 "the_value" can be class or ID of the form. You are required to call a property of the form (class or ID).
 
